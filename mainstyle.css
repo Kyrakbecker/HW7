@@ -1,0 +1,40 @@
+
+.blueColor{
+    color:rgb(255, 0, 200)
+    font-family:arial;
+    font-size:24px;
+}
+.pinkColor{
+    color:rgb(255, 0, 200);
+    font-family:arial;
+    font-size:24px;
+}
+.yellowColor{
+    color:rgb(217, 255, 0);
+    font-family:arial;
+    font-size:24px;
+}
+
+#specificColor{
+    color:rgb(255, 0, 200);
+    font-family:verdana;
+    font-size:24px;
+}
+#specificlink{
+    color:rgb(255, 0, 200);
+    font-family:verdana;
+    font-size:24px;
+}
+#specificfont{
+    color:rgb(255, 0, 200);
+    font-family:verdana;
+    font-size:24px;
+}
+.fall-image {
+    background: url("fall-night-oasis.jpg") no-repeat center; 
+    background-size: cover;
+    height: 500px;
+    position: relative;
+  }
+
+
